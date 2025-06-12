@@ -6,7 +6,7 @@ class Denys:
 
     def calculate_course(self, current_year=2025):
 
-# Вираховує курс студента відповідно до року народження
+# Враховує курс студента відповідно до року народження
 
         if self.birth_year is None:
             return None
